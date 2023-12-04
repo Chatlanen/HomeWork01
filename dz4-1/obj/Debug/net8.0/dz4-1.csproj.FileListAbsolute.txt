@@ -1,0 +1,14 @@
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\bin\Debug\net8.0\dz4-1.exe
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\bin\Debug\net8.0\dz4-1.deps.json
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\bin\Debug\net8.0\dz4-1.runtimeconfig.json
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\bin\Debug\net8.0\dz4-1.dll
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\bin\Debug\net8.0\dz4-1.pdb
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\dz4-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\dz4-1.AssemblyInfoInputs.cache
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\dz4-1.AssemblyInfo.cs
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\dz4-1.csproj.CoreCompileInputs.cache
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\dz4-1.dll
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\refint\dz4-1.dll
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\dz4-1.pdb
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\dz4-1.genruntimeconfig.cache
+C:\Users\MiftakhovAI\Documents\project\C#\dz4-1\obj\Debug\net8.0\ref\dz4-1.dll
